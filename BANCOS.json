@@ -548,6 +548,10 @@
       "label": "China Construction Bank (Brasil) Banco Múltiplo S/A"
    },
    {
+      "value": "323",
+      "label": "MERCADOPAGO.COM Representacoes Ltda."
+   },
+   {
       "value": "341",
       "label": "Itaú Unibanco  S.A."
    },
@@ -774,9 +778,5 @@
    {
       "value": "757",
       "label": "Banco Keb Hana do Brasil S. A."
-   },
-   {
-      "value": "323",
-      "label": "MERCADOPAGO.COM Representacoes Ltda."
-   },
+   }
 ]
